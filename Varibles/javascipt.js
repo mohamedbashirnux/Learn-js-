@@ -1,5 +1,7 @@
-console.log("Basic info about me ");
+console.log("this is somethng about me");
 
-let birthYear = 2000;
-const currentYear = 2026;
-console.log(currentYear - birthYear)
+
+
+birthyear = 2003
+currentYEar = 2026
+result= currentYEar - birthyear
