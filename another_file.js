@@ -1,0 +1,1 @@
+prompt("Hi, what's App man!")
