@@ -1,1 +1,1 @@
-prompt("Hi, what's App man!")
+console.log(Math.random());
