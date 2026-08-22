@@ -70,7 +70,7 @@ Students can also receive reminders about upcoming exams.
 
 ---
 
-### 6. 📚 Organized Course Materials
+### 5. 📚 Organized Course Materials
 
 Teachers can organize their lessons and learning materials by chapters or topics.
 
@@ -98,7 +98,7 @@ Students can open or download the materials directly from the application.
 
 ---
 
-### 9. 📋 Student Requests
+### 6. 📋 Student Requests
 
 Students can submit requests to the Faculty through the application instead of always visiting the Faculty office.
 
@@ -115,7 +115,7 @@ Faculty can review the request and **Approve ✅ / Reject ❌** it.
 
 ---
 
-### 13. 📅 Student Calendar
+### 7. 📅 Student Calendar
 
 Students can have one calendar showing their classes, assignments, exams, and important academic events.
 
@@ -134,7 +134,7 @@ Students can have one calendar showing their classes, assignments, exams, and im
 
 ---
 
-### 14. 🔥 "What's Next?" Dashboard
+### 8. 🔥 "What's Next?" Dashboard
 
 The student application shows the most important upcoming information immediately after login.
 
@@ -160,7 +160,7 @@ The student application shows the most important upcoming information immediatel
 
 ---
 
-### 15. 📚 Teacher Resource Sharing
+### 9. 📚 Teacher Resource Sharing
 
 Teachers can share different academic resources with their classes directly through the application.
 
@@ -178,7 +178,7 @@ Students can access or download the resources from the subject.
 
 ---
 
-### 16. 📑 Past Exam Library
+### 10. 📑 Past Exam Library
 
 Teachers or Faculty can upload previous exams and organize them by subject and year.
 
@@ -198,7 +198,7 @@ Students can access available previous exams for study purposes.
 
 ---
 
-### 17. 🔔 Academic Notifications
+### 11. 🔔 Academic Notifications
 
 The notification system can be expanded beyond attendance.
 
@@ -218,7 +218,7 @@ Students can receive notifications for:
 
 ---
 
-### 18. 📝 Online Quiz System
+### 12. 📝 Online Quiz System
 
 Teachers can create quizzes for their classes directly from their portal.
 
