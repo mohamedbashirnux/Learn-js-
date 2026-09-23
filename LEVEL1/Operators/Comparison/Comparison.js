@@ -1,14 +1,37 @@
-// Comparison operators
+// Comparison operators — full breakdown with names
 
-let a = 5;
-let b = "5";
+// == "Equal to" (loose) — checks value only, ignores type
+console.log(5 == 5);     // true  - same value
+console.log(5 == "5");   // true  - same value, ignores that one is text
+console.log(5 == 6);     // false - different value
 
-console.log(a == b);  // true  - loose equal (ignores type, only checks value)
-console.log(a === b); // false - strict equal (checks value AND type)
-console.log(a != b);  // false - loose not equal
-console.log(a !== b); // true  - strict not equal
+// === "Strictly equal to" — checks value AND type
+console.log(5 === 5);    // true  - same value, same type
+console.log(5 === "5");  // false - same value, different type
+console.log(5 === 6);    // false - different value
 
-console.log(a > 3);  // true  - greater than
-console.log(a < 3);  // false - less than
-console.log(a >= 5); // true  - greater than or equal
-console.log(a <= 4); // false - less than or equal
+// != "Not equal to" (loose) — opposite of ==
+console.log(5 != 6);     // true  - they are different
+console.log(5 != "5");   // false - == said equal, so "not equal" is false
+console.log(5 != 5);     // false - they are the same
+
+// !== "Strictly not equal to" — opposite of ===
+console.log(5 !== 6);    // true  - different value
+console.log(5 !== "5");  // true  - different type, even if value looks same
+console.log(5 !== 5);    // false - same value, same type
+
+// > "Greater than"
+console.log(10 > 5);  // true
+console.log(3 > 5);   // false
+
+// < "Less than"
+console.log(3 < 5);   // true
+console.log(10 < 5);  // false
+
+// >= "Greater than or equal to"
+console.log(5 >= 5);  // true - equal counts
+console.log(4 >= 5);  // false
+
+// <= "Less than or equal to"
+console.log(5 <= 5);  // true - equal counts
+console.log(6 <= 5);  // false
