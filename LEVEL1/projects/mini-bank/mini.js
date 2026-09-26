@@ -1,10 +1,11 @@
-// mini back calcular
+// Mini bank project
 
 let age = Number(prompt("Enter your age?"));
-let bankkCard = prompt("Do you have Bank card?");
-let pin = Number(prompt("Enter your bin?"));
-let Balance = Number("Enter your balance?");
-let amount = number ("Enter amount you need with drawal");
+let hasBankAccount = prompt("Yes/No");
+let pin = Number(prompt("Enter your bin"));
+let currentBalace =Number(prompt("Enter your current balance"));
+let amountwithdr = Number(prompt("Enter amount you need withdrwal"));
 
-let result = age => 18 && bankCard === "yes" && pin === 1234 && amount <= Balance ? "withdrwal sucsefully" : "you can nit wuthdraw"
-alert("result")
+let result = age >= 18 && hasBankAccount === "yes" && pin == 1234 && amountwithdr <= currentBalace ? "sucsess" : "failed"
+
+alert(result)
