@@ -92,7 +92,4 @@ We will start with:
 2. if...else
 3. else if
 4. switch
-...
 ```
-
-We will not move to the next topic until we understand the current one.
