@@ -1,5 +1,5 @@
-const Celsius = Number(prompt("enter your temp in celsius i will convert for Fahrenheit"));
+// weather temprature project 
 
-const Fahrenheit = (Celsius * 9 / 5) + 32;
-
-alert("the result is " + Fahrenheit);
+let temprature = Number(prompt("Enter Temprature"));
+let result =  temprature >=30 ? "its really hot " : "its not hot"
+alert(result)
