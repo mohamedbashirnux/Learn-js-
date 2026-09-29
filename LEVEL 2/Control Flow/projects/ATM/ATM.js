@@ -45,4 +45,4 @@ if (pin === correctPin) {
 
     alert("Incorrect PIN");
 
-}
+}   I am add small updates 
