@@ -10,6 +10,6 @@ sayHello();
 // Output:
 // Hello Mohamed
 // Hello Mohamed
-//
+//      
 // The function is declared once,
 // then called two times.
