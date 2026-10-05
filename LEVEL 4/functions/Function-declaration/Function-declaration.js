@@ -6,7 +6,7 @@ function sayHello() {
 
 sayHello();
 sayHello();
-
+sayHello();
 // Output:
 // Hello Mohamed
 // Hello Mohamed
