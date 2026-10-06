@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+    <h1 id="title">My Website</h1>
+
+    <p id="message">Welcome!</p>
+
+    <button id="button">Click Me</button>
+
+    <script>
+
+    </script>
+
+</body>
+</html>
