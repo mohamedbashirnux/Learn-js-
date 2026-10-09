@@ -769,25 +769,7 @@ Choose one:
 
 ---
 
-# 🟢 LEVEL 28 — Real Projects
 
-Build:
-
-* Calculator
-* Todo App
-* Notes App
-* Weather App
-* Movie App
-* Chat App
-* E-commerce Store
-* Blog
-* LMS
-* Social Media Clone
-* Trello Clone
-* Netflix Clone
-* Banking App
-* POS System
-* Full-stack Dashboard
 
 ---
 
