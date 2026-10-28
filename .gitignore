@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 notes.txt
+=======
+# Ignore the test folder
+test/
+>>>>>>> 4bd867df879078f4715781bef6d991141de81e0e
